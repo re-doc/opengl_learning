@@ -1,4 +1,3 @@
 ﻿  Main.cpp
 glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(input.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_joystick.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
   myopengl.vcxproj -> C:\Users\86158\source\repos\myopengl\x64\Debug\myopengl.exe
