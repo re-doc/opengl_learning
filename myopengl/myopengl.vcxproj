@@ -144,7 +144,6 @@
     <ClCompile Include="stb.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="shader_s.h" />
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
