@@ -29,12 +29,18 @@
     <ClInclude Include="stb_image.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="Libraries\include\myopengl\标头.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="3.3.shader.vs">
+    <None Include="colors.vs">
       <Filter>源文件</Filter>
     </None>
-    <None Include="3.3.shader.fs">
+    <None Include="colors.fs">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="light_cube.fs">
       <Filter>源文件</Filter>
     </None>
   </ItemGroup>
