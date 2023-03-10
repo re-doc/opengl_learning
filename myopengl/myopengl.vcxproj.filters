@@ -34,13 +34,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="colors.vs">
+    <None Include="1.model_loading.vs">
       <Filter>源文件</Filter>
     </None>
-    <None Include="colors.fs">
-      <Filter>源文件</Filter>
-    </None>
-    <None Include="light_cube.fs">
+    <None Include="1.model_loading.fs">
       <Filter>源文件</Filter>
     </None>
   </ItemGroup>
